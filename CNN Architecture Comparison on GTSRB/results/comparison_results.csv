@@ -1,0 +1,4 @@
+Model,Test Accuracy,Macro F1,Latency (ms),FPS,Model Size (MB)
+Lightweight CNN,0.9008,0.7806,0.94,1064.9,9.16
+ResNet-18,0.9599,0.9096,2.33,429.6,42.8
+EfficientNet-B0,0.9508,0.9004,7.45,134.3,15.79
